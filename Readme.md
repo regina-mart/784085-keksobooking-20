@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Регина Армянинова](https://up.htmlacademy.ru/javascript/20/user/784085).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
 
 ---
 
